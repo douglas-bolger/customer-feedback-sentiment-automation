@@ -61,3 +61,19 @@ Designed and implemented an automated workflow that:
 ## Notes
 
 This repository documents workflow design and automation logic. No proprietary data or API credentials are included.
+
+---
+
+## Screenshots
+
+### Workflow Architecture
+![Workflow Diagram](workflow-diagram.png)
+
+### AI Output → Structured Data
+![AI JSON Output](ai-json-output.png)
+
+### Structured Google Sheets Output
+![Google Sheets Output](google-sheets-output.png)
+
+### Workflow in Action
+![Workflow in Action](workflow-in-action.png)
